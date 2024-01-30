@@ -34,11 +34,12 @@ form{
 
 input{
   width: 300px;
-  background-color: black;
+  background-color:white;
   padding: 15px;
-  color: white;
+  color: black;
   outline: none;
-  border: none;
+  /* border: none; */
+  border-radius: 10px;
 }
 
 .alert{
